@@ -1,2 +1,4 @@
-# AliveGh0st.github.io
-AliveGh0st ' S BLOG
+# 技术改变世界！
+# 自由，免费，开源。
+</ 您可以点击我的Github主页以查看我的更多内容！
+   
